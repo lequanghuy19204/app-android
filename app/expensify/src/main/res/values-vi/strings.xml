@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="date">Ngày</string>
+    <string name="content">Nội dung</string>
+    <string name="moneys">Số tiền</string>
+</resources>
