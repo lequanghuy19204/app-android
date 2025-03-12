@@ -15,8 +15,10 @@
             <option value="$PROJECT_DIR$/app/expensify" />
             <option value="$PROJECT_DIR$/app/note" />
             <option value="$PROJECT_DIR$/app/practicewithlayout" />
+            <option value="$PROJECT_DIR$/app/quiz" />
             <option value="$PROJECT_DIR$/app/sample_2" />
             <option value="$PROJECT_DIR$/app/unitconverter" />
+            <option value="$PROJECT_DIR$/app/vocal" />
           </set>
         </option>
         <option name="resolveExternalAnnotations" value="false" />
