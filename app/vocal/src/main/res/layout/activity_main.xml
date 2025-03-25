@@ -8,8 +8,11 @@
     tools:context=".MainActivity">
 
     <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerView"
         android:layout_width="410dp"
         android:layout_height="888dp"
         tools:layout_editor_absoluteX="1dp"
         tools:layout_editor_absoluteY="1dp" />
+
+
 </androidx.constraintlayout.widget.ConstraintLayout>
